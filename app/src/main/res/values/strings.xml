@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dagger2ChuckNorris</string>
+    <string name="btn_new_joke">New Joke</string>
+</resources>
